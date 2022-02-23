@@ -1,0 +1,14 @@
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\bin\Debug\netcoreapp3.1\Task1_never_say_never.exe
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\bin\Debug\netcoreapp3.1\Task1_never_say_never.deps.json
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\bin\Debug\netcoreapp3.1\Task1_never_say_never.runtimeconfig.json
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\bin\Debug\netcoreapp3.1\Task1_never_say_never.runtimeconfig.dev.json
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\bin\Debug\netcoreapp3.1\Task1_never_say_never.dll
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\bin\Debug\netcoreapp3.1\Task1_never_say_never.pdb
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\obj\Debug\netcoreapp3.1\Task1_never_say_never.csproj.AssemblyReference.cache
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\obj\Debug\netcoreapp3.1\Task1_never_say_never.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\obj\Debug\netcoreapp3.1\Task1_never_say_never.AssemblyInfoInputs.cache
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\obj\Debug\netcoreapp3.1\Task1_never_say_never.AssemblyInfo.cs
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\obj\Debug\netcoreapp3.1\Task1_never_say_never.csproj.CoreCompileInputs.cache
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\obj\Debug\netcoreapp3.1\Task1_never_say_never.dll
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\obj\Debug\netcoreapp3.1\Task1_never_say_never.pdb
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb23_doma_HW\Task1_never_say_never\Task1_never_say_never\obj\Debug\netcoreapp3.1\Task1_never_say_never.genruntimeconfig.cache
